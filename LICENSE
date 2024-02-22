@@ -1,6 +1,9 @@
-MIT License
+Copyright (c) 2024 SHINHAN GROUP CO., LTD.
+SPDX-License-Identifier: MIT
 
-Copyright (c) 2024 wonyoung2
+This is based on the https://squidfunk.github.io/mkdocs-material/
+===
+Copyright (c) 2024 Shinhan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
